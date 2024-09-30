@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        #img{
+            height: 200px;
+            width: 200px;
+        }
+        table {
+          border-collapse: collapse;
+          width: 100%;
+        }
+        th, td {
+          padding: 8px;
+          text-align: left;
+          border-bottom: 1px solid #ddd;
+        }
+        th {
+          background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <img id="img" src="./assests/img/product/1.jfif" alt=""><br>
+    <input id="nameMon" type="text" placeholder="Nhap mon">
+    <button id="btn">Thêm</button>
+    <table id="render"></table>
+    <br>
+
+
+    <h1>Bảng Thanh Toán</h1>
+    <table>
+        <table>
+            <thead>
+              <tr>
+                <th>STT</th>
+                <th>Hàng Hóa</th>
+                <th>Đơn Giá</th>
+                <th>Số Lượng</th>
+                <th>Thành Tiền</th>
+              </tr>
+            </thead>
+            <tbody id="colProduct">
+              <!-- <tr>
+                <td>001</td>
+                <td>John Doe</td>
+                <td>85</td>
+                <td>Giỏi</td>
+              </tr> -->
+            </tbody>
+          </table>
+          <span>Tổng: </span><span id="total"></span>
+       </table>
+    <script src="./jsBaoVe.js"></script>
+</body>
+</html>

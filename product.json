@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "MH73 - Mô hình Cao Cấp Son GoKu Black Rose Cao 48cm Có Đèn Led và 2 Đầu Thay Thế - Mô Hình Black Goku Dragon Ball Super",
+        "price": 1000000,
+        "img": "./assests/img/product/1.jfif"
+    },
+    {
+        "id": 2,
+        "name": "MH66 - Mô Hình Son Goku Bản Cao Cấp Bản Năng Vô Cực Ultra Instinct Cao 55cm Có 3 Đầu Thay Thế - Mô Hình Dragon Ball",
+        "price": 1349000,
+        "img": "./assests/img/product/2.jfif"
+    },
+    {
+        "id": 3,
+        "name": "MH41 Mô Hình Cao Cấp Figure Trunks Cao 50cm 2 Đầu Thay Thế - Mẫu Mới Dragon Ball",
+        "price": 569000,
+        "img": "./assests/img/product/3.jfif"
+    },
+    {
+        "id": 4,
+        "name": "Dragon Ball Vegeta Goku Lucky Pack Mystery Box Búp bê văn phòng trang trí bàn làm việc Mô hình búp bê hành động",
+        "price": 150000,
+        "img": "./assests/img/product/4.jfif"
+    },
+    {
+        "id": 5,
+        "name": "Mô hình songoku sử dụng Quả cầu Kinh Khi - mô hình dragonball",
+        "price": 450000,
+        "img": "./assests/img/product/5.jfif"
+    },
+    {
+        "id": 6,
+        "name": "MH72 - Mô Hình Cao Cấp Vegito Super Saiyan Blue Cao 58cm Có Led Và 3 Đầu Thay Đổi - Mô hình Dragon Ball Super",
+        "price": 969000,
+        "img": "./assests/img/product/6.jfif"
+    },
+    {
+        "id": 7,
+        "name": "Mô hình songoku xé áo có hiệu ứng siêu đẹp ( Dragonball )",
+        "price": 1650000,
+        "img": "./assests/img/product/7.jfif"
+    },
+    {
+        "id": 8,
+        "name": "Mô hình dragon ball Goku Cell Frieza Buu Super Saiyan (surprise gift) dragonball Figure trang trí Anime Game Figure",
+        "price": 88000,
+        "img": "./assests/img/product/8.jfif"
+    },
+    {
+        "id": 9,
+        "name": "[mô hình 2023] Mô hình Broly vs songoku - Mô hình Dragon ball mô hình đẹp",
+        "price": 127000,
+        "img": "./assests/img/product/9.jfif"
+    },
+    {
+        "id": 10,
+        "name": "[ GreatStore Sẵn ] Mô hình Dragonball Son goku Vegeta super saiyan 4 FIGMA Ation Figure 16 cm cử động được",
+        "price": 790000,
+        "img": "./assests/img/product/10.jfif"
+    }
+]
